@@ -402,3 +402,8 @@ margin-right: 0;
 .socials__item-icon-telegram, .social__link {
     background-image: url(../img/t2.png);
 }
+/* servicis page */
+.top-line {
+    min-height: 200px;   
+}
+
