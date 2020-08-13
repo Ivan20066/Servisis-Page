@@ -456,15 +456,17 @@ margin-right: 0;
     
 }
 .page-content {
-    background: #E5E5E5;
+    background: #ffffff;
     color: #303030;
     padding: 40px 0;
 }
 .service {
     display: flex;
-    margin-top: 54px;
-   
-    
+    margin-top: 54px;    
+}
+.service__img {
+    width: 460px;
+    height: 333px;
 }
 
 .service__content {
@@ -473,7 +475,7 @@ margin-right: 0;
     margin-bottom: 20px;
 }  
 .services {
-    margin-bottom: 55px;
+    margin-bottom: 67px;
 }
 .service__title {
     font-size: 36px;
