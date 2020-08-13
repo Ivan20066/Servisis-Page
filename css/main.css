@@ -6,6 +6,7 @@ body {
     font-family:"Open Sans", Arial, Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased ;
     -moz-font-smoothing: grayscale;
+    margin: 0;
 }
 a {
     color:inherit;
