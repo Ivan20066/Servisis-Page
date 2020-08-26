@@ -1,0 +1,32 @@
+
+.socials {   
+    display: flex;
+    
+}
+.socials__item {
+    
+    margin-right: 8px;
+}
+
+.socials__item:last-child {
+    margin-right: 0;
+}
+.socials__link {
+    display: block;
+    text-decoration: none;
+    width: 36px;
+    height: 36px;
+    background: center center no-repeat;
+}
+ .socials__item-icon-insta {
+    background: url(../../img/in2.png);
+}
+  .socials__item-icon-fb {
+    background: url(../../img/f2.png);
+}
+ .socials__item-icon-vk {
+    background: url(../../img/vk2.png);
+}
+.socials__item-icon-telegram {
+    background: url(../../img/t2.png);
+}

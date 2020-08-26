@@ -1,0 +1,24 @@
+
+.menu__list {
+    display: flex;
+    justify-content: space-between;  
+}
+
+.menu-footer {
+    margin-left: 74px;
+}
+.menu__item {
+    margin-right: 56px;
+}
+
+.menu__item:last-child {
+    margin-right: 0;
+}   
+
+.menu__link {
+    font-size: 14px;
+    text-decoration: none;
+}
+.menu__link:hover {
+    color:  #FF3D00;    
+}

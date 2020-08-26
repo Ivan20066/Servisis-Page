@@ -1,0 +1,27 @@
+.breadcrumbs__atem {
+    display: flex;
+    align-items:center;
+    margin-right: 5px;  
+    
+}
+.breadcrumbs__list {
+    display: flex;
+    align-items: center;
+}
+.breadcrumbs__link {
+    font-size: 14px;
+    color:#9A9A9A;
+    text-decoration: none;    
+}
+.breadcrumbs__atem:last-child {
+    margin: 0;
+}
+.breadcrumbs__atem ::after {
+    content: "/";
+    color:#9A9A9A ;
+   margin-left: 5px;
+   
+}
+.breadcrumbs__atem:last-child ::after {
+    display: none;
+}  

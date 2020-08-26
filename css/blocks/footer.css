@@ -1,0 +1,21 @@
+.footer-container {
+    margin-top:auto;     
+} 
+
+
+.footer--col-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}  
+.footer {
+  
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.contacts__desc {
+    color: #ffffff;
+    font-size: 11px;
+    line-height: 125%;
+}
