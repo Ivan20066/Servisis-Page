@@ -8,14 +8,14 @@
     align-items: center;
     justify-content: space-between;
 }  
-.footer {
-  
+.footer {  
     display: flex;
     justify-content:space-between;
     align-items: center;
 }
-.contacts__desc {
-    color: #ffffff;
-    font-size: 11px;
-    line-height: 125%;
+
+.inner-footer {
+    background: #17191C;
+    margin-top:auto;
+    height: 135px;
 }

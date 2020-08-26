@@ -1,6 +1,12 @@
 .service {
+   
+    margin-top: 73px;    
+}
+.services__item {
     display: flex;
-    margin-top: 71px;    
+}
+.service-bottom {
+    margin-top: 45px;
 }
 .service__img {
     width: 100%;
@@ -11,10 +17,10 @@
 .service__content {
    padding-top: 18px;
     margin-left: 64px;
-    margin-bottom: 20px;
+    
 }  
 .services {
-    margin-bottom: 67px;
+    
 }
 .service__title {
     font-size: 36px;

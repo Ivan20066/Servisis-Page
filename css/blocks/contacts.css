@@ -12,4 +12,8 @@
     text-decoration: underline;
     color:  #FF3D00;  
     line-height: 125%;
+}.contacts__desc {
+    color: #ffffff;
+    font-size: 11px;
+    line-height: 125%;
 }
