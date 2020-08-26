@@ -6,7 +6,7 @@
 }
 .breadcrumbs__list {
     display: flex;
-    align-items: center;
+    
 }
 .breadcrumbs__link {
     font-size: 14px;
